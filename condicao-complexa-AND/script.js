@@ -12,3 +12,4 @@ if( idade >=18 && temCNH === "sim") {
     alert("Pode dirigir");
 }else
     alert("Não pode dirigir")
+    
